@@ -22,7 +22,11 @@
    + 참조 링크 : <https://ko.wikipedia.org/wiki/Ps_(%EC%9C%A0%EB%8B%89%EC%8A%A4)>
 ---
 ## 3. `jobs`
-   +
+   + 백그라운드에서 실행 중인 프로세스를 표시한다.
+   + 쉘(shell)에 의한 작업 제어를 의미한다.
+   + 프로세스 그룹에 대한 쉘의 표현이다.
+   + 참조 링크 : <https://gr-st-dev.tistory.com/206> <https://ko.wikipedia.org/wiki/Jobs_(%EC%9C%A0%EB%8B%89%EC%8A%A4)>
 ---
 ## 4. `kill`
-   +
+   + 프로세스를 종료합니다.
+   + 참조 링크 : <https://gr-st-dev.tistory.com/210>
