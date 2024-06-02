@@ -16,7 +16,9 @@
 ## 2. `ps`
    + 현재 실행되고 있는 프로세스들을 표시한다.
    + 출력 예시 :
+
      
+     ![ps](https://github.com/juuyuul/OS_SW_24/assets/166657497/e8d4cf69-ccb0-4e2d-939d-4c1bddcb5c47)\
    + 참조 링크 : <https://ko.wikipedia.org/wiki/Ps_(%EC%9C%A0%EB%8B%89%EC%8A%A4)>
 ---
 ## 3. `jobs`
